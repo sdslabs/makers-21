@@ -10,7 +10,7 @@ Double check if you are in the [SDSLabs open source discord server](https://disc
 ## Eligibility
 Any student of IIT Roorkee is eligible to make a submission and interact with us regarding their project. However, only freshers are eligible for the prizes
 
-## Prizes
+## Perks
 The projects made by freshers which catch our eye will earn their makers a direct interview for SDSLabs recruitment.
 
 ## Ideas

@@ -5,10 +5,11 @@ Makers is an annual, one of a kind competition which lets you show off your awes
 
 ## Rules
 There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __20 March 2021 2359 Hours__.  
-Double check if you are in the [SDSLabs open source discord server](https://discord.gg/jRXZp35qtN) to interact with us. Keep an eye out on the discord server for imporant announcements. We'll also be organising Mentorship Weekends here during which SDSLabs members will be available 24/7 to assist you with your projects.
+
+Double check if you are in the [SDSLabs open source discord server](https://discord.gg/jRXZp35qtN) to interact with us. Keep an eye out on the discord server for imporant announcements. We'll also be organising Mentorship Weekends here during which SDSLabs members will be available throughout the weekend to assist you with your projects.
 
 ## Eligibility
-Any student of IIT Roorkee is eligible to make a submission and interact with us regarding their project. However, only freshers are eligible for the prizes
+Any student of IIT Roorkee is eligible to make a submission and interact with us regarding their project. However, only freshers are eligible for the prizes. Also, Makers is an individual participation event. 
 
 ## Perks
 The projects made by freshers which catch our eye will earn their makers a direct interview for SDSLabs recruitment.

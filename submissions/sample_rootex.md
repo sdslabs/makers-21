@@ -10,7 +10,7 @@ No
 
 Rootex is an advanced C++ 3D game engine powering an in-production game yet to be announced. Rootex is planned to support a free 2.5D local multiplayer physics based sidescroller game to be shipped on Windows and using the DirectX 11 Graphics API.
 
-<img src="https://www.github.com/sdslabs/rootex/rootex/assets/editor.png"/>
+<img src="https://github.com/sdslabs/Rootex/blob/master/rootex/assets/editor.png"/>
 
 ### Features
 

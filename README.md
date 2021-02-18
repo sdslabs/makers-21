@@ -6,7 +6,7 @@ Makers is an annual, one of a kind competition which lets you show off your awes
 ## Rules
 There are no ground rules but one - *no plagarism*. We will invalidate the submission if we find such case. After all, this competition is for learning. Deadline for submissions: __20 March 2021 2359 Hours__.  
 
-Double check if you are in the [SDSLabs open source discord server](https://discord.gg/jRXZp35qtN) to interact with us. Keep an eye out on the discord server for imporant announcements. We'll also be organising Mentorship Weekends here during which SDSLabs members will be available throughout the weekend to assist you with your projects.
+Double check if you are in the [SDSLabs open source discord server](https://discord.gg/jRXZp35qtN) to interact with us. Keep an eye out on the discord server for important announcements. We'll also be organising Mentorship Weekends at the server during which SDSLabs members will be available throughout the weekend to assist you with your projects.
 
 ## Eligibility
 Any student of IIT Roorkee is eligible to make a submission and interact with us regarding their project. However, only freshers are eligible for the prizes. Also, Makers is an individual participation event. 
@@ -18,7 +18,7 @@ The projects made by freshers which catch our eye will earn their makers a direc
 Find the ideas list for this edition of Makers [here](ideas/2021.pdf). There is no compulsion to work on an idea from this list, you're free to do anything as long as it involves making something with code.
 
 ## Submission
-For a valid submission, you would be needing a source repository link, demo page (if its a web app) or executable (for native app). Make a PR to this repository, which 
+For a valid submission, you would be needing a source repository link, demo page (if it's a web app) or executable (for native app). Make a PR to this repository, which 
 
 1. Adds a single Markdown (`.md`) file to the folder [submissions/](submissions/). A sample submission can be viewed [here](submissions/sample_rootex.md).
 2. The name of the file should be unique and can contain only alphanumeric characters, hyphens (`-`) or underscores (`_`).

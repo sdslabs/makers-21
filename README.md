@@ -1,6 +1,8 @@
 # Makers 2021
 Makers tasks by SDSLabs.
 
+**Update:** Makers is now open for designers as well, the same rules apply for the design track. We have added a design problem statement to the ideas list but following the spirit of Makers, you are free to choose your own problem statement as well.  
+
 Makers is an annual, one of a kind competition which lets you show off your awesome projects and ideas you make during the period of one month. You are allowed to work on your own ideas, but if you are out of one, we have curated a list of awesome ideas you can choose one from.
 
 ## Rules

@@ -1,0 +1,11 @@
+{ "manifest_version": 2, "name": "Anti-Distract", "description": "Will close the tab of facebook page after a certain time is over", "version": "1", "author": "Parth Sharma",
+    "browser_action": {  "default_popup": "popup.html", "default_icon": "extension_img.png",   "default_title": "Be anti-Addict" },    
+    "chrome_url_overrides" : {  "newtab": "newtab.html"},
+    "content_security_policy":"script-src 'self' https://apis.google.com/popup.js; object-src 'self'",
+    "content_scripts": [
+      {
+      "matches" : ["http://*/*", "https://*/*"],
+      "js" : ["popup.js"]
+      }
+  ],
+    "permissions": ["activeTab"]}

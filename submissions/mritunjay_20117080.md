@@ -4,11 +4,11 @@
 
 Time Collector is an chrome extension which is used to collect the data(time) of usage of any site and it also collects the time that you are going to waste in future by any kind of distractions.
 
-![Interface 1](https://drive.google.com/file/d/1Ykow1tD-TXMlXbyWDqOJJ_uDY3Tx3ZSg/view?usp=sharing)
+![Interface 1](https://user-images.githubusercontent.com/78851683/112184421-33764680-8c25-11eb-8fc5-697736d717e4.jpg)
 
-![Interface 2](https://drive.google.com/file/d/1urIbjz17jRArOICdB-ZWpa4WUMZYXo1W/view?usp=sharing)
+![Interface 2](https://user-images.githubusercontent.com/78851683/112184272-10e42d80-8c25-11eb-8549-a1cb7fc5fe84.jpg)
 
-![Interface 3](https://drive.google.com/file/d/1w1xKYy-KfemQQvl4KKRxdNWALLhcqe0D/view?usp=sharing)
+![Interface 3](https://user-images.githubusercontent.com/78851683/112184409-3113ec80-8c25-11eb-8ac9-59d26fc89a4b.jpg)
 
 ## Features
 

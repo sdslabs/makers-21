@@ -1,6 +1,6 @@
 # Time Collector
 
-[Repo Link](https://github.com/Ch0ubey/mritunjay_20117080)
+[Repository Link](https://github.com/Ch0ubey/mritunjay_20117080)
 
 Time Collector is an chrome extension which is used to collect the data(time) of usage of any site and it also collects the time that you are going to waste in future by any kind of distractions.
 
@@ -20,4 +20,6 @@ Time Collector is an chrome extension which is used to collect the data(time) of
 6. You can also see your time track on icon without going and clicking on it.
 7. You can also ignore some websites time tracking.
 8. You can also block website or get a warning notification after a particular limit of time that you set.
-9. If you found some bugs you can also improve that by clicking [here](https://github.com/Ch0ubey/mritunjay_20117080/issues).
+9. If you found some bugs you can also improve that by going on about section or by clicking [here](https://github.com/Ch0ubey/mritunjay_20117080/issues).
+
+###### HOPE SO YOU ENJOY THIS EXTENSION!!

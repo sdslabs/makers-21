@@ -9,6 +9,7 @@
 4. Feeling lonely? **Chat** for some time with her!
 5. Don't have a calculator or don't know how to solve an equation? Well why fear when Jane-ify!'s here! **Jane-ify! can solve most of the equations, find value of function at a point, and also doo simple calculations!**
 6. Don't know all the commands that Jane-ify! listens to? Well just type in **,help** and the bot will guide you.
+7. Like to **talk only with emoji's**? Jane-fy! **can respond** to 'em too!
 
 
 Repo Link:https://github.com/just-ary27/Makers_Jane-ify-The-discord_bot
